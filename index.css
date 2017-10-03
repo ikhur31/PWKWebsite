@@ -3,15 +3,12 @@ body{
 }
 
 .container{
-    background-color: bisque
+    background-color: bisque;
+    text-align: center;
 }
 
 .col-md-4{
     background-color: blue;
-    text-align: center;
-}
-
-#container{
     text-align: center;
 }
 
