@@ -11,6 +11,10 @@ body{
     text-align: center;
 }
 
+#container{
+    text-align: center;
+}
+
 #mid{
     background-color: red;
     text-align: center;
