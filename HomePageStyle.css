@@ -1,0 +1,21 @@
+body{
+}
+
+.container{
+    background-color: bisque
+}
+
+.col-md-4{
+    background-color: blue;
+    text-align: center;
+}
+
+#mid{
+    background-color: red;
+    text-align: center;
+}
+
+#right{
+    background-color: orange;
+    text-align: center;
+}
