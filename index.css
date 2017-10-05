@@ -1,5 +1,5 @@
 body{
-    background-color: #013201;
+    background-color: ghostwhite;
 }
 
 .container{
@@ -19,5 +19,5 @@ body{
 
 #right{
     background-color: orange;
-    text-align: right;
+    text-align: center;
 }
