@@ -1,23 +1,65 @@
 body{
-    background-color: darkgrey;
 }
 
-.container{
-    background-color: bisque;
+.container-fluid{
+}
+
+#title{
+    text-align: center;
+    font-family: monospace;
+    background-color: aliceblue;
+}
+
+#navbar{
+    text-align: center;
+    font-size: 20px;
+    font-family:monospace;
+    background-color:floralwhite;
+}
+
+/*format the list until its a nav bar*/
+#navbar ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:turquoise;
+}
+
+#navbar li{
+    display: inline;
+}
+
+/*Not li a & hover not working */
+#navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+#navbar li a:hover{
+    color: green;
+}
+
+#pwk{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#statement{
+    text-align:center;
+    font-size: 15px;
+}
+
+#bluetooth{
     text-align: center;
 }
 
-.col-md-4{
-    background-color: blue;
+#recommend{
     text-align: center;
 }
 
-#mid{
-    background-color: red;
-    text-align: center;
-}
-
-#right{
-    background-color: orange;
+#about{
     text-align: center;
 }
