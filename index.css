@@ -1,6 +1,15 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(0,120,174);
 }
+
+p{
+    color: rgb(233,233,233);
+}
+
+h1{color: rgb(0,178,89);
+}
+
+
 
 .container-fluid{
 }
@@ -11,7 +20,9 @@ body{
 }
 
 #navbar{
-    background-color: white;
+    background-color: rgb(0,178,89);
+    font-size: 15px;
+    font-weight: bold;
 }
 
 #pwk{
@@ -33,4 +44,13 @@ body{
 
 #about{
     text-align: center;
+}
+
+#head1{
+    font-weight: bold;
+    text-shadow: 1px 1px #000;
+}
+
+#head2{
+    text-shadow: 1px 1px 8px #000;
 }
