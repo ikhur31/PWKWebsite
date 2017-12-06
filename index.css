@@ -54,3 +54,7 @@ h1{color: rgb(0,178,89);
 #head2{
     text-shadow: 1px 1px 8px #000;
 }
+
+a{
+    color: white;
+}
